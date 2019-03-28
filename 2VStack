@@ -2,7 +2,7 @@ Octapi Stack 3 towers of 3
 
 Tower 1  
 Module 1 
-- Hardware 
+Hardware 
 - Pi 3B+
 - camera module and pimoroni pan and tilt+ 
 - hdmi to tv
@@ -12,18 +12,20 @@ OS - Operating Systems
 - Kodi
 - Raspbian google aiy version
 
-
 # Module 2  
-- Hardware 
+Hardware 
 - USB Camera x 2 
 - HDMI Cable TV + Sound
 - USB Mic
 OS 
-Kodi
-Raspbian aiy 
-
-
-
+- Kodi
+- Raspbian aiy 
+Software
+curlmount
+dejavu?backup
+virtualenv
+motioneye
+raspbian google aiy
 
 # Module 3 
 Hardware
@@ -31,15 +33,90 @@ Hardware
 usb Gooseneck Mic
 USB EWA Speaker
 USB Camera x 2 
-
-OS 
--
+OS -
+- raspbian
+- raspbian port
 software  
  - motioneye
+- set up to Cameras to record x 3 mininum + record to NAS
 
+Tower 2  
+Module 1 
+Hardware 
+- Pi 3B+
+- camera module and pimoroni pan and tilt+ 
+- hdmi to tv
+- usb Mic 
+- 3.5 speaker to dancing speakers
+OS - Operating Systems 
+- Kodi
+- Raspbian google aiy version
 
+# Module 2  
+Hardware 
+- USB Camera x 2 
+- HDMI Cable TV + Sound
+- USB Mic
+OS 
+- Kodi
+- Raspbian aiy 
+Software
+curlmount
+dejavu?backup
+virtualenv
+motioneye
+raspbian google aiy
 
-Cameras to record x 3 mininum + record to NAS
-Mic x 2
+# Module 3 
+Hardware
+- Screen 3.5 Inch  + 
+usb Gooseneck Mic
+USB EWA Speaker
+USB Camera x 2 
+OS -
+- raspbian
+- raspbian port
+software  
+ - motioneye
+- set up to Cameras to record x 3 mininum + record to NAS
 
-Camera 
+Tower 3  
+Module 1 
+Hardware 
+- Pi 3B+
+- camera module and pimoroni pan and tilt+ 
+- hdmi to tv
+- usb Mic 
+- 3.5 speaker to dancing speakers
+OS - Operating Systems 
+- Kodi
+- Raspbian google aiy version
+
+# Module 2  
+Hardware 
+- USB Camera x 2 
+- HDMI Cable TV + Sound
+- USB Mic
+OS 
+- Kodi
+- Raspbian aiy 
+Software
+curlmount
+dejavu?backup
+virtualenv
+motioneye
+raspbian google aiy
+
+# Module 3 
+Hardware
+- Screen 3.5 Inch  + 
+usb Gooseneck Mic
+USB EWA Speaker
+USB Camera x 2 
+OS -
+- raspbian
+- raspbian port
+software  
+ - motioneye
+- set up to Cameras to record x 3 mininum + record to NAS
+
