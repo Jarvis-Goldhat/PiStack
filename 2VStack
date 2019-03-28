@@ -1,11 +1,44 @@
-Octapi Stack (but try to set 
-in two towers
+Octapi Stack 3 towers of 3 
 
-Tower 1 is protyping stack 
+Tower 1  
 Module 1 
-Break out board
-Helping hands 
-Lights
+- Hardware 
+- Pi 3B+
+- camera module and pimoroni pan and tilt+ 
+- hdmi to tv
+- usb Mic 
+- 3.5 speaker to dancing speakers
+OS - Operating Systems 
+- Kodi
+- Raspbian google aiy version
+
+
+# Module 2  
+- Hardware 
+- USB Camera x 2 
+- HDMI Cable TV + Sound
+- USB Mic
+OS 
+Kodi
+Raspbian aiy 
+
+
+
+
+# Module 3 
+Hardware
+- Screen 3.5 Inch  + 
+usb Gooseneck Mic
+USB EWA Speaker
+USB Camera x 2 
+
+OS 
+-
+software  
+ - motioneye
+
+
+
 Cameras to record x 3 mininum + record to NAS
 Mic x 2
 
